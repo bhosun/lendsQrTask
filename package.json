@@ -1,0 +1,26 @@
+{
+  "name": "lendsqrtask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhosun/lendsQrTask.git"
+  },
+  "author": "Olabisi Olatunbosun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhosun/lendsQrTask/issues"
+  },
+  "homepage": "https://github.com/bhosun/lendsQrTask#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^1.19.1"
+  }
+}
